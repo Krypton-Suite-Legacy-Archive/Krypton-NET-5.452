@@ -1,6 +1,14 @@
-﻿using ComponentFactory.Krypton.Toolkit;
+﻿// *****************************************************************************
+// BSD 3-Clause License (https://github.com/ComponentFactory/Krypton/blob/master/LICENSE)
+//  © Component Factory Pty Ltd, 2006-2019, All rights reserved.
+//  By Peter Wagner(aka Wagnerp) & Simon Coghlan(aka Smurf-IV) 2017 - 2019. All rights reserved. (https://github.com/Wagnerp/Krypton-NET-5.452)
+//  Version 5.452.0.0  www.ComponentFactory.com
+// *****************************************************************************
+
 using System;
 using System.Windows.Forms;
+
+using ComponentFactory.Krypton.Toolkit;
 
 namespace TestMessageBoxClipping
 {
@@ -15,7 +23,7 @@ namespace TestMessageBoxClipping
 //  Mornington, Vic 3931, Australia and are supplied subject to licence terms.
 // 
 //  Modifications by Peter Wagner(aka Wagnerp) & Simon Coghlan(aka Smurf-IV) 2017 - 2019. All rights reserved. (https://github.com/Wagnerp/Krypton-NET-5.452)
-//  Version 4.5.2.0  www.ComponentFactory.com
+//  Version 4.7.0.0  www.ComponentFactory.com
 // *****************************************************************************
 ";
         public Form1()
