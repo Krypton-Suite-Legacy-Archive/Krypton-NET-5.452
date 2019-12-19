@@ -2387,8 +2387,8 @@ namespace ComponentFactory.Krypton.Navigator
             // Create the manager for handling hovering
             HoverManager = new ToolTipManager
             {
-                ShowInterval = 452,
-                CloseInterval = 452
+                ShowInterval = 400,
+                CloseInterval = 400
             };
             HoverManager.ShowToolTip += OnStartHover;
             HoverManager.CancelToolTip += OnEndHover;
